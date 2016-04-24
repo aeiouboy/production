@@ -58,17 +58,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/package.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/package.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/package-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
 	"\/sass\/ie.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -145,17 +134,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scripts\/vendor.js",
 		"outputAbbreviatedPath": "\/scripts\/min\/vendor-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/server.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/server.js",
-		"outputAbbreviatedPath": "\/min\/server-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
